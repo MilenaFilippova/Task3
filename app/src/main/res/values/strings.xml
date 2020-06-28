@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tasks</string>
+    <string name="edit">Изменить</string>
+    <string name="delete">Удалить</string>
+    <string name="save">Сохранить</string>
+
+    <string-array name="compositions">
+        <item>NO</item>
+        <item>comp1</item>
+        <item>comp2</item>
+        <item>comp3</item>
+    </string-array>
+</resources>
